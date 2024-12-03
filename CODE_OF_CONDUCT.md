@@ -34,7 +34,7 @@ Os administradores do projeto são responsáveis por esclarecer os padrões de c
 
 ## Aplicação
 
-Instâncias de comportamento abusivo, de assédio ou inaceitável podem ser relatadas aos mantenedores do projeto através de [seu-email@exemplo.com]. Todas as reclamações serão revisadas e investigadas, resultando em uma resposta considerada necessária e apropriada às circunstâncias.
+Instâncias de comportamento abusivo, de assédio ou inaceitável podem ser relatadas aos mantenedores do projeto através de mensagens diretas. Todas as reclamações serão revisadas e investigadas, resultando em uma resposta considerada necessária e apropriada às circunstâncias.
 
 ---
 
