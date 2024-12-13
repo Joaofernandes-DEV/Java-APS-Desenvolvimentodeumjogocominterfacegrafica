@@ -1,4 +1,4 @@
-# APS 2024/1 – EcoQuiz  
+# Desenvolvimento de um Jogo Educativo com Interface Gráfica: EcoQuiz
 
 **Sistema Educativo em Java para conscientização ambiental**, desenvolvido como parte das Atividades Práticas Supervisionadas (APS) na disciplina de **Linguagem de Programação Orientada a Objetos**.  
 
